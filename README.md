@@ -1,59 +1,131 @@
-# 🌐 Animated Portfolio Website
+# ✨ Khushi Kumari — Animated Developer Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+---
 
-## 🚀 Live Demo
+**Computer Science Engineering Student | MERN Stack Developer | Problem Solver**
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+I'm a Computer Science Engineering student passionate about building modern, interactive, and user-friendly web applications. I enjoy working with React.js, JavaScript, Node.js, and modern frontend technologies while continuously improving my Data Structures & Algorithms and problem-solving skills.
 
-## 🛠️ Tech Stack
+---
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+## 🤝 Connect With Me
 
-## 📁 Features
+<p align="center">
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+<a href="https://www.geeksforgeeks.org/profile/khushii0721?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Khushii0721-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://github.com/KhushiKumari721">
+  <img src="https://img.shields.io/badge/GitHub-KhushiKumari721-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/K-H-U-S-H-I/">
+  <img src="https://img.shields.io/badge/LeetCode-K--H--U--S--H--I-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/khushi-kumari-189803326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
-## 🧑‍💻 How to Use
+</p>
 
-### 1. Clone the Repo
+---
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+## 🌐 About The Project
 
-### 2. Install Dependencies
+This is my personal **animated developer portfolio website**, created to showcase my skills, projects, education, experience, and coding journey in an interactive and visually engaging way.
 
-```bash
-npm install
-```
+The website combines a modern dark-themed interface with **smooth animations, responsive layouts, interactive components and 3D elements** to create an engaging user experience.
 
-### 3. Run the App
+---
 
-```bash
-npm start
-```
+## ✨ Highlights
 
-### 4. Build for Production
+- 🎨 Modern and creative UI design
+- ⚡ Smooth page and scroll animations
+- 🧊 Interactive 3D experience with Three.js
+- 🎬 GSAP-based animations
+- 📱 Fully responsive across desktop, tablet and mobile
+- 💼 Dedicated projects section
+- 🛠️ Technical skills showcase
+- 🎓 Education section
+- 💻 Experience section
+- 🔗 GitHub, LinkedIn, LeetCode and GeeksforGeeks links
+- 📩 Contact section
+- 🍔 Responsive mobile navigation
 
-```bash
-npm run build
-```
+---
 
-## 📹 YouTube Tutorial
+## 🛠️ Technologies Used
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+| Technology | Purpose |
+|------------|---------|
+| React.js | Building the user interface |
+| JavaScript | Logic and interactivity |
+| Tailwind CSS | Styling and responsive design |
+| Three.js | 3D elements and visual effects |
+| GSAP | Smooth animations and transitions |
+| HTML5 | Page structure |
+| CSS3 | Styling and layouts |
+| Vite | Development and build tool |
+| Git & GitHub | Version control |
 
-## 🌟 Credits
+---
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+## 🎨 Design & Experience
+
+The portfolio focuses on creating a balance between **modern design and interactive web experiences**.
+
+### Key design elements
+
+- Dark-themed interface
+- Purple accent color
+- Smooth hover effects
+- Animated sections
+- Interactive navigation
+- 3D visual elements
+- Responsive layouts
+- Clean typography
+
+---
+
+## 📂 Main Sections
+
+### 👋 About
+
+A short introduction and overview of my development journey.
+
+### 🛠️ Skills
+
+Displays my technical skills and technologies that I work with.
+
+### 💼 Experience
+
+Highlights my learning and development experience.
+
+### 🚀 Projects
+
+Showcases the projects I have built using modern web technologies.
+
+### 🎓 Education
+
+Provides information about my academic background.
+
+### 📬 Contact
+
+Allows visitors to connect with me through my professional and social profiles.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+<p align="center">
+  Made with ❤️ by <b>Khushi Kumari</b>
+</p>
+
+
+
