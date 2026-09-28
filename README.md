@@ -1,59 +1,111 @@
-# 🌐 Animated Portfolio Website
+# ✨ Khushi Kumari — Animated Developer Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+<p align="center">
+  <b>A modern, interactive and responsive developer portfolio built with React.js, Tailwind CSS, Three.js and GSAP.</b>
+</p>
 
-## 🚀 Live Demo
+<p align="center">
+  <a href="https://github.com/KhushiKumari721/Khushi-Portfolio">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=threedotjs" />
+  <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=greensock" />
+</p>
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+---
 
-## 🛠️ Tech Stack
+## 🌐 About The Project
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+This is my personal **animated developer portfolio website**, created to showcase my skills, projects, education, experience, and coding journey in an interactive and visually engaging way.
 
-## 📁 Features
+The website combines a modern dark-themed interface with **smooth animations, responsive layouts, interactive components and 3D elements** to create an engaging user experience.
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+---
 
+## ✨ Highlights
 
-## 🧑‍💻 How to Use
+- 🎨 Modern and creative UI design
+- ⚡ Smooth page and scroll animations
+- 🧊 Interactive 3D experience with Three.js
+- 🎬 GSAP-based animations
+- 📱 Fully responsive across desktop, tablet and mobile
+- 💼 Dedicated projects section
+- 🛠️ Technical skills showcase
+- 🎓 Education section
+- 💻 Experience section
+- 🔗 GitHub, LinkedIn, LeetCode and GeeksforGeeks links
+- 📩 Contact section
+- 🍔 Responsive mobile navigation
 
-### 1. Clone the Repo
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| React.js | Building the user interface |
+| JavaScript | Logic and interactivity |
+| Tailwind CSS | Styling and responsive design |
+| Three.js | 3D elements and visual effects |
+| GSAP | Smooth animations and transitions |
+| HTML5 | Page structure |
+| CSS3 | Styling and layouts |
+| Vite | Development and build tool |
+| Git & GitHub | Version control |
+
+---
+
+## 🎨 Design & Experience
+
+The portfolio focuses on creating a balance between **modern design and interactive web experiences**.
+
+### Key design elements
+
+- Dark-themed interface
+- Purple accent color
+- Smooth hover effects
+- Animated sections
+- Interactive navigation
+- 3D visual elements
+- Responsive layouts
+- Clean typography
+
+---
+
+## 📂 Main Sections
+
+### 👋 About
+
+A short introduction and overview of my development journey.
+
+### 🛠️ Skills
+
+Displays my technical skills and technologies that I work with.
+
+### 💼 Experience
+
+Highlights my learning and development experience.
+
+### 🚀 Projects
+
+Showcases the projects I have built using modern web technologies.
+
+### 🎓 Education
+
+Provides information about my academic background.
+
+### 📬 Contact
+
+Allows visitors to connect with me through my professional and social profiles.
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to run the portfolio locally.
+
+### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the App
-
-```bash
-npm start
-```
-
-### 4. Build for Production
-
-```bash
-npm run build
-```
-
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+git clone https://github.com/KhushiKumari721/Khushi-Portfolio.git
