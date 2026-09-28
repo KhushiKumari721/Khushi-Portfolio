@@ -1,16 +1,34 @@
 # ✨ Khushi Kumari — Animated Developer Portfolio
 
-<p align="center">
-  <b>A modern, interactive and responsive developer portfolio built with React.js, Tailwind CSS, Three.js and GSAP.</b>
-</p>
+---
+
+**Computer Science Engineering Student | MERN Stack Developer | Problem Solver**
+
+I'm a Computer Science Engineering student passionate about building modern, interactive, and user-friendly web applications. I enjoy working with React.js, JavaScript, Node.js, and modern frontend technologies while continuously improving my Data Structures & Algorithms and problem-solving skills.
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/KhushiKumari721/Khushi-Portfolio">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=threedotjs" />
-  <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=greensock" />
+
+<a href="https://www.geeksforgeeks.org/profile/khushii0721?tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Khushii0721-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://github.com/KhushiKumari721">
+  <img src="https://img.shields.io/badge/GitHub-KhushiKumari721-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/K-H-U-S-H-I/">
+  <img src="https://img.shields.io/badge/LeetCode-K--H--U--S--H--I-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/khushi-kumari-189803326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 </p>
 
 ---
@@ -101,11 +119,13 @@ Allows visitors to connect with me through my professional and social profiles.
 
 ---
 
-## 🚀 Getting Started
+## ⭐ Support
 
-Follow the steps below to run the portfolio locally.
+If you like this project, consider giving it a ⭐ on GitHub.
 
-### 1. Clone the repository
+<p align="center">
+  Made with ❤️ by <b>Khushi Kumari</b>
+</p>
 
-```bash
-git clone https://github.com/KhushiKumari721/Khushi-Portfolio.git
+
+
